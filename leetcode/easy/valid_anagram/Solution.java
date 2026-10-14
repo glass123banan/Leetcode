@@ -1,6 +1,5 @@
 package valid_anagram;
 import java.util.Arrays;
-import java.util.HashMap;
 
 public class Solution {
     public boolean isAnagram(String s, String t) {
